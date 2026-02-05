@@ -52,17 +52,15 @@ o<br>
 ```python -m pip install requests```<br>
 
 ### Linux
-
 ```pip3 install requests```
 
 Luego instalar Tkinter
-
 ```sudo apt install python3-tk```
 
 ### Para ejecutar el .py debes ubicarte en la carpeta, abrir el terminal/cmd y ejecutar el siguente comando
-### Windows
-<br>```python buscador.py```<br>
-o
-<br>```python3 buscador.py```
-### Linux
-<br>```python3 buscador.py```
+### Windows <br>
+```python buscador.py```<br>
+o<br>
+```python3 buscador.py```
+### Linux <br>
+```python3 buscador.py```
